@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/slTrust/gulu/issues"
   },
-  "homepage": "https://github.com/slTrust/gulu#readme"
+  "homepage": "https://github.com/slTrust/gulu#readme",
+  "dependencies": {
+    "vue": "^2.5.16"
+  }
 }
